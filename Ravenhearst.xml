@@ -2,10 +2,10 @@
 <Servers>
     <ServerGroup Name="Ravenhearst" Logo="" Description="Can you survive the terror?">
         <Server Name="Ravenhearst 11" Logo="">
-		    <DownloadMode>Clone</DownloadMode>
-            <Downloads>
-                <Download>https://github.com/JaxTeller718/Ravenhearst_11_6.git</Download>
-            </Downloads>
+			<DownloadMode>Release</DownloadMode>
+			<Downloads>
+			<Download>https://github.com/JaxTeller718/Ravenhearst_11_6/releases</Download>
+			</Downloads>
             <Description>
 			Stable release of Ravenhearst for 2.6b14. Currently on v11.0.0b8
 			
