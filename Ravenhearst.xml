@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="Ravenhearst" Logo="" Description="Can you survive the terror?">
+        <Server Name="Ravenhearst 11" Logo="">
+		    <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://github.com/JaxTeller718/Ravenhearst_11_6.git</Download>
+            </Downloads>
+            <Description>
+			Stable release of Ravenhearst for 2.6b14. Currently on v11.0.0b8
+			
+			Future v10 updates will automatically post here. Title will not change. These include both client and server files. For direct files head to our discord.
+			
+			The ORIGINAL Hardcore mod from A14 brings its mixture of slower grind and difficulty to A20 with more features and changes than ever before!
+			
+			Do you enjoy a more methodical and slower based progression system? Do you feel the base game is too fast, other mods seem uneven or just not catering to that specific hardcore taste that you want?
+			
+			Ravenhearst is the mod for you! Featuring hundreds of balancing changes and tweaks, new recipes, new deco, new enemies like Night Terrors, new vehicles, Tier 5 radiated pois, Journal Quest line with end game rewards, expanded EVERYTHING, Learn by Doing, old restored vanilla features like upgrades to blocks, and hundreds of more features and changes Ravenhearst has enough fright and terror to satisfy even the most toughest of players.
+		
+			Patch Notes for v11.0.0b8
+				
+Updated to v2.6(14)
+Updated RH Core
+Updated Quartz
+Updated Gears
+Updated Score
+Reverted Air Drops to our original Air Drops
+Added smell to all of our food
+Added Bundles to our Meats
+Removed Beehives and rebalanced around the Apiary
+Adapted Workstation and Seed Crafting Skills to Ravenhearst
+Added new 2.5 maps generated with Modded RWG DLL for Road Fixes not in Vanilla
+Adjusted Snow Zombie spawns
+Fixed incorrect display value on bowl of honey
+Added Sonja Fallout Armor
+Updated TMOCore
+Added Socket to Rare Automotive Group
+Fixed Brewery Issues
+Completed Journal now scraps to KP
+Completed Journal sell value increased
+Fixed Tier 5 Skill icons and descriptions
+Aligned all zombie XP to new vanilla formatting
+Removed Posters and Coolers from Crooked Deco. If you see any other deco that looks wrong let me know and we can remove them.
+Swapped Stoner and AK-47
+Adjusted Loot Timers for Gas Barrel and Multiple Gas Barrels
+Removed duplicate wheel recipe
+Lowered price of Crucible
+Fixed smell on fish tacos
+Fixed traps skill book recipe
+Removed extra scrap brass pallet bundle recipe
+Adjusted recipes of some weapons
+Increased degradation drain of Guitar slightly
+Increased chance of bee and honey events on stumps and probability on trees
+Increased crop fuel counts in Apiary to 100
+Removed spoilage from Goldenrod and Chrysanthemum
+Removed duplicate empty jar recipe
+Fixed various Sonja armor errors
+Converted all Beehive quests to Apiary
+Removed Dew Gatherer, Filter and Tarp from recipes and added to loot
+Reduced probability of Radiated Screamer spawn on Scout groups
+Shifted all of our Gamestages
+    New Gamestages
+	25 = 50
+	50 = 100
+	100 = 300
+	300 = 500
+	500 = 700
+	700 = 1000
+This will move up spawning of those groups to the new shifted gamestage. We can push these further out if necessary
+Increased recipe costs of electric relay, posts and timer made in workbench
+Added electric posts, relay and timer to electric table as secondary recipe with reduced recipe costs (less than vanilla original cost)
+Fixed and changed all instances of biome mushrooms giving back vanilla mushroom seeds when destroyed instead of our seeds
+Updated Old West POI's
+Updated FNS POI's
+Lowered Dire Wolf Sound
+Enhanced Lock/Unlock Icons Visual and Audio
+Anvils can now be scrapped
+Gave Drop Models to many food and drink items
+Lowered Health on RH Runners (Air Drops etc)
+Adapted RH drinks to use Empty Jar Return Settings
+Tuned down chance of honey event in stumps
+Reduced Honey received to 2 from 3
+Added Bees event to Stumps to collect Bees
+Cleaned up Old West POI Zombie nulls
+Reduced Heatmaps on Personal WorkBench, Farm Table, Table Saw and Tanning Rack
+Backpack Slots Opening Too Soon Fix - Zakov
+Adjustments for Over Spawn of Old West Towns (Requires New Map)
+Adjustments for Cities and Towns Map Wide (Requires New Map)
+Quality Fixes - Zakov
+Fixed Weapons not scrapping into their proper parts
+Salt recipe changed. Survival Campfire 20 seconds24 halite, chem station 12 halite 10 seconds
+Removed extra Raw Meat Bundle Recipe
+Removed Jar returns from Pies
+Added new Speedloader - Zakov
+Adjustments to the Splash Logo - Zakov
+Replaced Old Action Skills with New Coded Version - Zakov
+Ensured .dlls for Zakov Action Skills are included
+Updated Speedloader - Zakov
+Updated Score
+Added Glass Breaking Sound when a Jar is Consumed
+Rebalanced zombie biome spawning
+Fixed ability to store loot in Bench Outputs - Zakov
+Fixed incorrect quality settings in Score
+Update Score
+Removed TMO Modlets
+Fixed Cardboard Box
+Updated Active Ingredients - Zakov
+Removed duplicate setting folder
+Added Storms
+Updated Old West POIs
+Various hand model fixes for cans and bottles
+Updated ZZTongs POI Pack
+Added Double G Zombie Classic Reimagined
+Added Crater POI Pack
+Updated Atmospheric Storms
+
+
+		    	Found a bug or poi stability issue and wish to let us know?  Head to Discord https://discord.gg/YBHD9f3 and post your logs.
+
+			</Description>
+           	
+           	<Version>Release</Version>
+            <EAC>Disabled</EAC>
+			<Author>JaxTeller718</Author>
+			<Admin>JaxTeller718</Admin>
+			<Discord>https://discord.gg/YBHD9f3</Discord>
+			<Twitter>https://twitter.com/JaxTeller718</Twitter>
+			<Donate>https://www.paypal.me/FrankCirabisiJr</Donate>
+
+
+        </Server>
+    </ServerGroup>
+</Servers>
